@@ -7,7 +7,7 @@
 - Kris Szafranski, Tier 1 Instructor, Director of Instruction, Slack: @kris
 - Matt Black, Instructor, Slack: @matt
 - Andrew Harasymiw, Instructor, Slack: @andrew
-- Megan Mikelson, Cohort Advisor, Slack: @megan
+- Megan Mikhelson, Cohort Advisor, Slack: @megan
 
 ## Other Prime Staff
 
