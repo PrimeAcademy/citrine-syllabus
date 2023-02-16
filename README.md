@@ -1,16 +1,17 @@
-# [@TODO: Cohort Name] Cohort Tier 1 Syllabus
+# Citrine Cohort Tier 1 Syllabus
 
 **IMPORTANT:** Always subject to change.
 
 ## Instruction Staff
 
-- [@TODO: Instructor Name], Instructor <[@TODO: Instructor Name]@primeacademy.io>
-- [@TODO: Director Name], Director of Instruction <[@TODO: Director Name]@primeacademy.io>
-- [@TODO: Cohort Advisor Name], Cohort Advisor <[@TODO: Cohort Advisor Name]@primeacademy.io>
+- Kris Szafranski, Tier 1 Instructor, Director of Instruction, Slack: @kris
+- Matt Black, Instructor, Slack: @matt
+- Andrew Harasymiw, Instructor, Slack: @andrew
+- Megan Mikelson, Cohort Advisor, Slack: @megan
 
 ## Other Prime Staff
 
-- Emily Schumacher, Director of Student Affairs & Alumni Experience <emily@primeacademy.io>
+- Emily Schumacher, Director of Student Affairs & Alumni Experience, Slack: @emily
 
 ---
 
@@ -22,8 +23,8 @@
 ---
 
 ## Cohort Resources
--  [Tier 1 Student Kickoff](https://launch.primeacademy.io/welcome-[@TODO: Cohort Name])
--  [Tier 1 Website](http://tier1.primeacademy.io/)
+-  [Tier 1 Student Kickoff](https://launch.primeacademy.io/welcome-citrine)
+-  [Tier 1 Website](http://fullstack.primeacademy.io/)
 
 ---
 
