@@ -57,6 +57,8 @@ Class recordings and their associated repositories, organized by week:
   * Repos:
     * [Guess Who Solve](https://github.com/PrimeAcademy/citrine-guess-who-1-solve)
     * [Node Intro](https://github.com/PrimeAcademy/citrine-node-intro)
+    * [Javascript in Node vs Browser](https://github.com/PrimeAcademy/citrine-emu-friends)
+    * [Express Server](https://github.com/PrimeAcademy/citrine-express-server)
   * Videos:
 
   ##### Wednesday - 04/05:
