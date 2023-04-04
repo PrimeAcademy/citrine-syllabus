@@ -43,3 +43,40 @@ Class recordings and their associated repositories, organized by week:
     * Uploading...
 
 </details>
+
+<details>
+  <summary>Week 7: Node + Express + Ajax</summary>
+
+  ##### Monday - 04/03:
+  * Repos:
+    * [Salary Calculator](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solve)
+    * [Salary Calculator w/ State](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solved-with-state)
+  * Videos:
+
+  ##### Tuesday - 04/04:
+  * Repos:
+    * [Guess Who Solve](https://github.com/PrimeAcademy/citrine-guess-who-1-solve)
+    * [Node Intro](https://github.com/PrimeAcademy/citrine-node-intro)
+  * Videos:
+
+  ##### Wednesday - 04/05:
+  * Repos:
+  * Videos:
+
+  ##### Thursday - 04/06:
+  * Repos:
+  * Videos:
+
+  ##### Friday - 04/07:
+  * Repos:
+  * Videos:
+
+</details>
+
+
+
+
+
+
+
+
