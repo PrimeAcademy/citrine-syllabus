@@ -91,6 +91,8 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Wednesday - 04/05:
   * Repos:
+    * [ajax-get](https://github.com/PrimeAcademy/citrine-the-express-express-ajax-example)
+    * [ajax-post](https://github.com/PrimeAcademy/citrine-the-express-express-ajax-post)
   * Videos:
     * [Q&A w/ Conceptual Drawing About Servers](https://vimeo.com/815066904)
 
