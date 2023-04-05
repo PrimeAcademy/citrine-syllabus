@@ -15,6 +15,9 @@ Class recordings and their associated repositories, organized by week:
   * Videos:
     * [Welcome!](https://vimeo.com/813680305)
     * [Syllabus + Tier 2 Expectations](https://vimeo.com/813682698)
+    * [Expressions and Values](https://vimeo.com/813686423)
+    * [Control Flow and Data Modeling](https://vimeo.com/813688902)
+    * [Nested `for...of` Loops](https://vimeo.com/813718292)
 
   ##### Tuesday - 03/28:
   * Repo:
@@ -49,16 +52,16 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Monday - 04/03:
   * Repos:
-    * [Salary Calculator](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solve)
-    * [Salary Calculator w/ State](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solved-with-state)
+    * [jquery-salary-calculator-solve](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solve)
+    * [jquery-salary-calculator-solved-with-state](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solved-with-state)
   * Videos:
 
   ##### Tuesday - 04/04:
   * Repos:
-    * [Guess Who Solve](https://github.com/PrimeAcademy/citrine-guess-who-1-solve)
-    * [Node Intro](https://github.com/PrimeAcademy/citrine-node-intro)
-    * [Javascript in Node vs Browser](https://github.com/PrimeAcademy/citrine-emu-friends)
-    * [Express Server](https://github.com/PrimeAcademy/citrine-express-server)
+    * [guess-who-solve](https://github.com/PrimeAcademy/citrine-guess-who-1-solve)
+    * [node-intro](https://github.com/PrimeAcademy/citrine-node-intro)
+    * [js-in-node-vs-browser](https://github.com/PrimeAcademy/citrine-emu-friends)
+    * [express-server](https://github.com/PrimeAcademy/citrine-express-server)
   * Videos:
 
   ##### Wednesday - 04/05:
