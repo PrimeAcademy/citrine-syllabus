@@ -20,18 +20,19 @@ Class recordings and their associated repositories, organized by week:
     * [Nested `for...of` Loops](https://vimeo.com/813718292)
 
   ##### Tuesday - 03/28:
-  * Repo:
+  * Repos:
     * [t1-code-challenge-live-solve](https://github.com/PrimeAcademy/citrine-tier-1-code-challenge-live-solve)
     * [bonus-calculator-live-solve](https://github.com/PrimeAcademy/citrine-bonus-calculator-group-project-1-live-solve)
   * Videos:
-    * Uploading...
+    * [Tier 1 Code Challenge Solve](https://vimeo.com/813718900)
+    * [Bonus Calculator Solve](https://vimeo.com/813722201)
 
   ##### Wednesday - 03/29:
   * Videos:
     * Uploading...
 
   ##### Thursday - 03/30:
-  * Repo:
+  * Repos:
     * [html-dom](https://github.com/PrimeAcademy/citrine-html-dom)
     * [event-driven-programming](https://github.com/PrimeAcademy/citrine-event-driven-programming)
     * [event-delegation](https://github.com/PrimeAcademy/citrine-event-delegation)
@@ -39,7 +40,7 @@ Class recordings and their associated repositories, organized by week:
     * Uploading...
 
   ##### Friday - 03/31:
-  * Repo:
+  * Repos:
     * [color-blocks-solve](https://github.com/PrimeAcademy/citrine-color-blocks-solve)
     * [jquery-app](https://github.com/PrimeAcademy/citrine-jquery-app) 👈 jQuery Cheat Sheet in `README.md`
   * Videos:
