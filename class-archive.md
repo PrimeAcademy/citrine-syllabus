@@ -7,6 +7,17 @@ Class recordings and their associated repositories, organized by week:
 ---
 
 <details>
+  <summary>Tier 1</summary>
+
+  * Videos:
+    * [Week 1](https://vimeo.com/800640028)
+    * [Week 2](https://vimeo.com/804059749)
+    * [Week 3](https://vimeo.com/807952186)
+    * [Week 4](https://vimeo.com/808843801)
+    * [Week 5](https://vimeo.com/811366851)
+</details>
+
+<details>
   <summary>Week 6: JS + jQuery</summary>
 
   ##### Monday - 03/27:
@@ -62,14 +73,21 @@ Class recordings and their associated repositories, organized by week:
     * [jquery-salary-calculator-solve](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solve)
     * [jquery-salary-calculator-solved-with-state](https://github.com/PrimeAcademy/citrine-jquery-salary-calculator-solved-with-state)
   * Videos:
+    * [Salary Calculator Solve: Part 1](https://vimeo.com/815026203)
+    * [Salary Calculator Solve: Part 2](https://vimeo.com/815026139)
+    * [Event --> State --> Render](https://vimeo.com/815026079)
 
   ##### Tuesday - 04/04:
   * Repos:
     * [guess-who-solve](https://github.com/PrimeAcademy/citrine-guess-who-1-solve)
     * [node-intro](https://github.com/PrimeAcademy/citrine-node-intro)
     * [js-in-node-vs-browser](https://github.com/PrimeAcademy/citrine-emu-friends)
-    * [express-server](https://github.com/PrimeAcademy/citrine-express-server)
+    * [express-server](https://github.com/PrimeAcademy/citrine-express-server) 👈 need some express boilerplate?
   * Videos:
+    * [Career Dev: Mentorship Overview]()
+    * [The Stack]()
+    * [Node: Another JS Runtime]()
+    * [Server: Using the Express Library to Make One]()
 
   ##### Wednesday - 04/05:
   * Repos:
