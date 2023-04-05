@@ -84,10 +84,10 @@ Class recordings and their associated repositories, organized by week:
     * [js-in-node-vs-browser](https://github.com/PrimeAcademy/citrine-emu-friends)
     * [express-server](https://github.com/PrimeAcademy/citrine-express-server) 👈 need some express boilerplate?
   * Videos:
-    * [Career Dev: Mentorship Overview]()
-    * [The Stack]()
-    * [Node: Another JS Runtime]()
-    * [Server: Using the Express Library to Make One]()
+    * [Career Dev: Mentorship Overview](https://vimeo.com/815027075)
+    * [The Stack](https://vimeo.com/815027038)
+    * [Node: Another JS Runtime](https://vimeo.com/815026979)
+    * [Server: Using the Express Library to Make One](https://vimeo.com/815026911)
 
   ##### Wednesday - 04/05:
   * Repos:
