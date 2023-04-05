@@ -48,7 +48,9 @@ Class recordings and their associated repositories, organized by week:
     * [color-blocks-solve](https://github.com/PrimeAcademy/citrine-color-blocks-solve)
     * [jquery-app](https://github.com/PrimeAcademy/citrine-jquery-app) 👈 jQuery Cheat Sheet in `README.md`
   * Videos:
-    * Uploading...
+    * [Color Blocks Solve](https://vimeo.com/813891453)
+    * [Forms, Inputs, and `event.preventDefault()`](https://vimeo.com/813892009)
+    * [Making an App](https://vimeo.com/813892311)
 
 </details>
 
