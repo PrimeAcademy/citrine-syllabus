@@ -38,7 +38,10 @@ Class recordings and their associated repositories, organized by week:
     * [event-driven-programming](https://github.com/PrimeAcademy/citrine-event-driven-programming)
     * [event-delegation](https://github.com/PrimeAcademy/citrine-event-delegation)
   * Videos:
-    * Uploading...
+    * [Debugging Presentations](https://vimeo.com/813865663)
+    * [Foundational Concepts of HTML, CSS, and The DOM](https://vimeo.com/813869379)
+    * [Event-Driven Programming w/ jQuery](https://vimeo.com/813869818)
+    * [Event Delegation w/ jQuery](https://vimeo.com/813870434)
 
   ##### Friday - 03/31:
   * Repos:
