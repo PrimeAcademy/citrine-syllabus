@@ -92,6 +92,7 @@ Class recordings and their associated repositories, organized by week:
   ##### Wednesday - 04/05:
   * Repos:
   * Videos:
+    * [Q&A w/ Conceptual Drawing About Servers](https://vimeo.com/815066904)
 
   ##### Thursday - 04/06:
   * Repos:
