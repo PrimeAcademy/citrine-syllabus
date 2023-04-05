@@ -29,7 +29,8 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Wednesday - 03/29:
   * Videos:
-    * Uploading...
+    * [Intro to Whiteboarding](https://vimeo.com/813858566)
+    * [Debugging: Matt's Demo and Andrew's Debugging Adventure](https://vimeo.com/813859477)
 
   ##### Thursday - 03/30:
   * Repos:
