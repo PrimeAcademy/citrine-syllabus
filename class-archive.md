@@ -95,14 +95,8 @@ Class recordings and their associated repositories, organized by week:
     * [ajax-post](https://github.com/PrimeAcademy/citrine-the-express-express-ajax-post)
   * Videos:
     * [Q&A w/ Conceptual Drawing About Servers](https://vimeo.com/815066904)
-
-  ##### Thursday - 04/06:
-  * Repos:
-  * Videos:
-
-  ##### Friday - 04/07:
-  * Repos:
-  * Videos:
+    * [Making a GET Request from Client-Side](https://vimeo.com/815156937)
+    * [Making a POST Request from Client-Side](https://vimeo.com/815154923)
 
 </details>
 
