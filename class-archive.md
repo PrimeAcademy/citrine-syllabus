@@ -98,6 +98,13 @@ Class recordings and their associated repositories, organized by week:
     * [Making a GET Request from Client-Side](https://vimeo.com/815156937)
     * [Making a POST Request from Client-Side](https://vimeo.com/815154923)
 
+  ##### Thursday - 04/06:
+  * Repo:
+    * [client-server-get-post-review](https://github.com/PrimeAcademy/citrine-client-server-get-post-review) 👈 live solve of Server-Side Inventory + excalidraw diagram of GET/POST in `README.md`
+  * Videos:
+    * [Client/Sever Get/Post Review: Part 1]()
+    * [Client/Sever Get/Post Review: Part 2]()
+
 </details>
 
 
