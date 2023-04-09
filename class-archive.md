@@ -105,6 +105,11 @@ Class recordings and their associated repositories, organized by week:
     * [Client/Sever Get/Post Review: Part 1](https://vimeo.com/815861365)
     * [Client/Sever Get/Post Review: Part 2](https://vimeo.com/815860571)
 
+  ##### Friday - 04/07:
+  * Repo:
+    * [Group Number Guessing Game Solve](https://github.com/PrimeAcademy/citrine-group-number-guessing-game-solve)
+  * Videos:
+    * None
 </details>
 
 
