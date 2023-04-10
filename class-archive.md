@@ -112,6 +112,40 @@ Class recordings and their associated repositories, organized by week:
     * None
 </details>
 
+<details>
+  <summary>Week 8: SQL, Databases, Full Stack</summary>
+
+  ##### Monday - 04/10:
+  * Repos:
+    * [Weekend Jquery Server Calculator Live Solve](https://github.com/PrimeAcademy/citrine-weekend-jquery-server-calculator-solve)
+  * Videos:
+    * [Weekend Jquery Server Calculator Live Solve](https://vimeo.com/manage/videos/816293470)
+
+  ##### Tuesday - 04/11:
+  * Repos:
+    * TBD
+  * Videos:
+    * TBD
+
+  ##### Wednesday - 04/12:
+  * Repos:
+    * TBD
+  * Videos:
+    * TBD
+
+  ##### Thursday - 04/13:
+  * Repos:
+    * TBD
+  * Videos:
+    * TBD
+
+  ##### Friday - 04/14:
+  * Repos:
+    * TBD
+  * Videos:
+    * TBD
+
+</details>
 
 
 
