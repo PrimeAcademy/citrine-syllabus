@@ -119,9 +119,11 @@ Class recordings and their associated repositories, organized by week:
   * Repos:
     * [Weekend Jquery Server Calculator Live Solve](https://github.com/PrimeAcademy/citrine-weekend-jquery-server-calculator-solve)
     * [Express Routers Example](https://github.com/PrimeAcademy/citrine-express-routers)
+    * [Citrine New App](https://github.com/PrimeAcademy/citrine-new-app)
   * Videos:
     * [Weekend Jquery Server Calculator Live Solve](https://vimeo.com/manage/videos/816293470)
     * TBD: Express Routers Example
+  
   ##### Tuesday - 04/11:
   * Repos:
     * TBD
