@@ -126,7 +126,7 @@ Class recordings and their associated repositories, organized by week:
   
   ##### Tuesday - 04/11:
   * Repos:
-    * TBD
+    * [Example SQL Queries](https://github.com/PrimeAcademy/citrine-sql-queries)
   * Videos:
     * TBD
 
