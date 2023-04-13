@@ -141,6 +141,7 @@ Class recordings and their associated repositories, organized by week:
   * Repos:
     * [FULL Stack CRUD](https://github.com/PrimeAcademy/citrine-full-stack-crud)
       -- Same repo as yesterday, just added in Update
+    * [Git Branching](https://github.com/PrimeAcademy/citrine-git-branching)
   * Videos:
     * TBD
 
