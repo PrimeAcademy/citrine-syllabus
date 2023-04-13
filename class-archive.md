@@ -132,7 +132,8 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Wednesday - 04/12:
   * Repos:
-    * TBD
+    * [Full Stack GET & POST](https://github.com/PrimeAcademy/citrine-full-stack-get-post)
+    * [FULL Stack DELETE](https://github.com/PrimeAcademy/citrine-full-stack-crud)
   * Videos:
     * TBD
 
