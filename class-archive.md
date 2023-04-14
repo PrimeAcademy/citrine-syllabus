@@ -107,9 +107,8 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Friday - 04/07:
   * Repo:
-    * [Group Number Guessing Game Solve](https://github.com/PrimeAcademy/citrine-group-number-guessing-game-solve)
-  * Videos:
-    * None
+    * [group-number-guessing-game-solve](https://github.com/PrimeAcademy/citrine-group-number-guessing-game-solve)
+
 </details>
 
 <details>
@@ -121,34 +120,34 @@ Class recordings and their associated repositories, organized by week:
     * [express-routers](https://github.com/PrimeAcademy/citrine-express-routers)
     * [new-app](https://github.com/PrimeAcademy/citrine-new-app)
   * Videos:
-    * [Server Calculator Live Solve](https://vimeo.com/manage/videos/816293470)
-    * [Express Routers](https://vimeo.com/manage/videos/817672573)
+    * [Server Calculator Live Solve](https://vimeo.com/816293470)
+    * [Express Routers](https://vimeo.com/817672573)
   
   ##### Tuesday - 04/11:
   * Repos:
     * [sql-queries](https://github.com/PrimeAcademy/citrine-sql-queries)
     * [pg-intro](https://github.com/PrimeAcademy/citrine-pg-intro)
   * Videos:
-    * [Databases: Conceptual](https://vimeo.com/manage/videos/817672511)
-    * [SQL: Part One](https://vimeo.com/manage/videos/817672402)
-    * [SQL: Part Two](https://vimeo.com/manage/videos/817672352)
-    * [PG: GET](https://vimeo.com/manage/videos/817672224)
+    * [Databases: Conceptual](https://vimeo.com/817672511)
+    * [SQL: Part One](https://vimeo.com/817672402)
+    * [SQL: Part Two](https://vimeo.com/817672352)
+    * [PG: GET](https://vimeo.com/817672224)
 
   ##### Wednesday - 04/12:
   * Repos:
     * [full-stack-get-post](https://github.com/PrimeAcademy/citrine-full-stack-get-post)
     * [full-stack-crud](https://github.com/PrimeAcademy/citrine-full-stack-crud)
   * Videos:
-    * 
+    * [PG: POST Part One](https://vimeo.com/817672135)
+    * [PG: POST Part Two](https://vimeo.com/817672060)
+    * [PG: DELETE](https://vimeo.com/817671903)
 
   ##### Thursday - 04/13:
   * Repos:
     * [full-stack-crud](https://github.com/PrimeAcademy/citrine-full-stack-crud)
     * [git-branching](https://github.com/PrimeAcademy/citrine-git-branching)
   * Videos:
-    * [PG: POST Part One](https://vimeo.com/manage/videos/817672135)
-    * [PG: POST Part Two](https://vimeo.com/manage/videos/817672060)
-    * [PG: DELETE](https://vimeo.com/manage/videos/817671903)
+    * [PG: PUT](https://vimeo.com/817671800)
 
 </details>
 
