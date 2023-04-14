@@ -148,6 +148,8 @@ Class recordings and their associated repositories, organized by week:
     * [git-branching](https://github.com/PrimeAcademy/citrine-git-branching)
   * Videos:
     * [PG: PUT](https://vimeo.com/817671800)
+    * [Git Branching](https://vimeo.com/817678681)
+    * [Pull Requests](https://vimeo.com/817678583)
 
 </details>
 
