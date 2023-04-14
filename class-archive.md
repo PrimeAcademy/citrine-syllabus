@@ -113,43 +113,42 @@ Class recordings and their associated repositories, organized by week:
 </details>
 
 <details>
-  <summary>Week 8: SQL, Databases, Full Stack</summary>
+  <summary>Week 8: SQL + Full-Stack CRUD</summary>
 
   ##### Monday - 04/10:
   * Repos:
-    * [Weekend Jquery Server Calculator Live Solve](https://github.com/PrimeAcademy/citrine-weekend-jquery-server-calculator-solve)
-    * [Express Routers Example](https://github.com/PrimeAcademy/citrine-express-routers)
-    * [Citrine New App](https://github.com/PrimeAcademy/citrine-new-app)
+    * [server-calculator-solve](https://github.com/PrimeAcademy/citrine-weekend-jquery-server-calculator-solve)
+    * [express-routers](https://github.com/PrimeAcademy/citrine-express-routers)
+    * [new-app](https://github.com/PrimeAcademy/citrine-new-app)
   * Videos:
-    * [Weekend Jquery Server Calculator Live Solve](https://vimeo.com/manage/videos/816293470)
-    * TBD: Express Routers Example
+    * [Server Calculator Live Solve](https://vimeo.com/manage/videos/816293470)
+    * [Express Routers](https://vimeo.com/manage/videos/817672573)
   
   ##### Tuesday - 04/11:
   * Repos:
-    * [Example SQL Queries](https://github.com/PrimeAcademy/citrine-sql-queries)
+    * [sql-queries](https://github.com/PrimeAcademy/citrine-sql-queries)
+    * [pg-intro](https://github.com/PrimeAcademy/citrine-pg-intro)
   * Videos:
-    * TBD
+    * [Databases: Conceptual](https://vimeo.com/manage/videos/817672511)
+    * [SQL: Part One](https://vimeo.com/manage/videos/817672402)
+    * [SQL: Part Two](https://vimeo.com/manage/videos/817672352)
+    * [PG: GET](https://vimeo.com/manage/videos/817672224)
 
   ##### Wednesday - 04/12:
   * Repos:
-    * [Full Stack GET & POST](https://github.com/PrimeAcademy/citrine-full-stack-get-post)
-    * [FULL Stack CRUD](https://github.com/PrimeAcademy/citrine-full-stack-crud)
+    * [full-stack-get-post](https://github.com/PrimeAcademy/citrine-full-stack-get-post)
+    * [full-stack-crud](https://github.com/PrimeAcademy/citrine-full-stack-crud)
   * Videos:
-    * TBD
+    * 
 
   ##### Thursday - 04/13:
   * Repos:
-    * [FULL Stack CRUD](https://github.com/PrimeAcademy/citrine-full-stack-crud)
-      -- Same repo as yesterday, just added in Update
-    * [Git Branching](https://github.com/PrimeAcademy/citrine-git-branching)
+    * [full-stack-crud](https://github.com/PrimeAcademy/citrine-full-stack-crud)
+    * [git-branching](https://github.com/PrimeAcademy/citrine-git-branching)
   * Videos:
-    * TBD
-
-  ##### Friday - 04/14:
-  * Repos:
-    * TBD
-  * Videos:
-    * TBD
+    * [PG: POST Part One](https://vimeo.com/manage/videos/817672135)
+    * [PG: POST Part Two](https://vimeo.com/manage/videos/817672060)
+    * [PG: DELETE](https://vimeo.com/manage/videos/817671903)
 
 </details>
 
