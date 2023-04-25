@@ -175,6 +175,7 @@ Class recordings and their associated repositories, organized by week:
   ##### Tuesday - 04/25:
   * Repos:
     * [React Rock Pickers Solve](https://github.com/PrimeAcademy/citrine-react-rock-pickers)
+    * [React Inputs](https://github.com/PrimeAcademy/citrine-react-inputs)
   * Videos:
     * []()
     
