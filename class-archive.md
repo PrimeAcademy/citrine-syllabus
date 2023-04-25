@@ -153,9 +153,50 @@ Class recordings and their associated repositories, organized by week:
 
 </details>
 
+<details>
+  <summary>Week 9: Bridge Week</summary>
 
+    ##### Nothing to see:
+    * Here:
+      * At all
+  
+</details>
 
+<details>
+  <summary>Week 10: React Week</summary>
 
+  ##### Monday - 04/24:
+  * Repos:
+    * [React Intro](https://github.com/PrimeAcademy/citrine-react-intro)
+    * [React State](https://github.com/PrimeAcademy/citrine-react-state)
+  * Videos:
+    * []()
+  
+  ##### Tuesday - 04/25:
+  * Repos:
+    * [React Rock Pickers Solve](https://github.com/PrimeAcademy/citrine-react-rock-pickers)
+  * Videos:
+    * []()
+    
+  ##### Wednesday - 04/26:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+    
+  ##### Thursday - 04/27:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+    
+  ##### Friday - 04/28:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+  
+</details>
 
 
 
