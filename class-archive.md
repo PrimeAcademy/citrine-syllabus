@@ -182,7 +182,8 @@ Class recordings and their associated repositories, organized by week:
     
   ##### Wednesday - 04/26:
   * Repos:
-    * []()
+    * [Componentized Full Stack React](https://github.com/PrimeAcademy/citrine-componentized-full-stack-react)
+    * [Conditional Rendering](https://github.com/PrimeAcademy/citrine-react-conditional-rendering)
   * Videos:
     * []()
     
