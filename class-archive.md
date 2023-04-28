@@ -156,9 +156,32 @@ Class recordings and their associated repositories, organized by week:
 <details>
   <summary>Week 9: Bridge Week</summary>
 
-    ##### Nothing to see:
-    * Here:
-      * At all
+  ##### Monday - 04/17:
+  * Repos:
+    * [to-do-list-solve](https://github.com/PrimeAcademy/citrine-to-do-list)
+  * Videos:
+    * [To-Do List Solve](https://vimeo.com/820323852)
+    * [.map and .filter](https://vimeo.com/820323677)
+
+  ##### Tuesday - 04/18:
+  * Repos:
+    * [refactoring](https://github.com/PrimeAcademy/citrine-refactoring)
+  * Videos:
+    * [GitHub: Forks vs Template and Stuff](https://vimeo.com/820323062)
+    * [Refactoring](https://vimeo.com/820318366)
+
+  ##### Wednesday - 04/19:
+  * Repos:
+    * [game-dev-day](https://github.com/PrimeAcademy/game-dev-day-v1)
+  * Videos:
+    * [Intro to Game Development](https://vimeo.com/820318193)
+  
+  ##### Thursday - 04/20:
+  * Repos:
+    * [data-structures](https://github.com/PrimeAcademy/citrine-data-structures)
+  * Videos:
+    * [Game Development Presentations](https://vimeo.com/820316808)
+    * [JS Objects: A Deeper Dive](https://vimeo.com/820316285)
   
 </details>
 
@@ -167,37 +190,37 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Monday - 04/24:
   * Repos:
-    * [React Intro](https://github.com/PrimeAcademy/citrine-react-intro)
-    * [React State](https://github.com/PrimeAcademy/citrine-react-state)
+    * [react-intro](https://github.com/PrimeAcademy/citrine-react-intro)
+    * [react-state](https://github.com/PrimeAcademy/citrine-react-state)
   * Videos:
-    * []()
+    * [React Intro](https://vimeo.com/822090117)
+    * [React State](https://vimeo.com/822087856)
   
   ##### Tuesday - 04/25:
   * Repos:
-    * [React Rock Pickers Solve](https://github.com/PrimeAcademy/citrine-react-rock-pickers)
-    * [React Inputs](https://github.com/PrimeAcademy/citrine-react-inputs)
-    * [Full Stack React](https://github.com/PrimeAcademy/citrine-full-stack-react)
+    * [react-rock-pickers-solve](https://github.com/PrimeAcademy/citrine-react-rock-pickers)
+    * [react-inputs](https://github.com/PrimeAcademy/citrine-react-inputs)
+    * [full-stack-react](https://github.com/PrimeAcademy/citrine-full-stack-react)
   * Videos:
-    * []()
+    * [React Q&A: Part 1](https://vimeo.com/822086478)
+    * [React Q&A: Part 2](https://vimeo.com/822085685)
+    * [React Inputs: Part 1](https://vimeo.com/822094242)
+    * [React Inputs: Part 2](https://vimeo.com/822093614)
+    * [React: Rendering Lists](https://vimeo.com/822095875)
+    * [Full-Stack React: Part 1](https://vimeo.com/822095208)
+    * [Full-Stack React: Part 2](https://vimeo.com/822094596)
     
   ##### Wednesday - 04/26:
   * Repos:
-    * [Componentized Full Stack React](https://github.com/PrimeAcademy/citrine-componentized-full-stack-react)
-    * [Conditional Rendering](https://github.com/PrimeAcademy/citrine-react-conditional-rendering)
+    * [componentized-full-stack-react](https://github.com/PrimeAcademy/citrine-componentized-full-stack-react)
+    * [react-conditional-rendering](https://github.com/PrimeAcademy/citrine-react-conditional-rendering)
   * Videos:
-    * []()
-    
+    * [Componentizing a Full-Stack React App](https://vimeo.com/822099065)
+    * [React Conditional Rendering](https://vimeo.com/822098347)
+  
   ##### Thursday - 04/27:
-  * Repos:
-    * []()
   * Videos:
-    * []()
-    
-  ##### Friday - 04/28:
-  * Repos:
-    * []()
-  * Videos:
-    * []()
+    * [Career Dev: LinkedIn 2](https://vimeo.com/822096583)
   
 </details>
 
