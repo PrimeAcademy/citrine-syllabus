@@ -224,5 +224,35 @@ Class recordings and their associated repositories, organized by week:
   
 </details>
 
+<details>
+  <summary>Week 11: Redux Week</summary>
 
-
+  ##### Monday - 05/01:
+  * Repos:
+    * [React Router](https://github.com/PrimeAcademy/citrine-react-router)
+  * Videos:
+    * []()
+  
+  ##### Tuesday - 05/02:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+    
+  ##### Wednesday - 05/03:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+  
+  ##### Thursday - 05/04:
+  * Repos:
+    * []()
+  * Videos:
+    * []()  
+  ##### Friday - 05/05:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+</details>
