@@ -235,7 +235,8 @@ Class recordings and their associated repositories, organized by week:
   
   ##### Tuesday - 05/02:
   * Repos:
-    * []()
+    * [Citrine Redux](https://github.com/PrimeAcademy/citrine-redux)
+    * [Redux Airlines Solve](https://github.com/PrimeAcademy/citrine-redux-airport)
   * Videos:
     * []()
     
