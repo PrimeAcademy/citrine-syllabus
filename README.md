@@ -8,6 +8,9 @@
 - [Class Archive](./class-archive.md)
 - [Schedule Overview](./resources/syllabus-schedule.md)
 - [Weekend Challenge Guidebook](./resources/weekend-guidebook.md)
+- Guides for Deploying Your Apps:
+  - [Heroku](./resources/heroku.md)
+  - [bit.io](./resources/bit-io.md)
 
 ## Instruction Staff
 
