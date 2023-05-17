@@ -257,3 +257,73 @@ Class recordings and their associated repositories, organized by week:
   * Videos:
     * []()
 </details>
+
+<details>
+  <summary>Week 12: Sagas Week</summary>
+
+  ##### Monday - 05/08:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+  
+  ##### Tuesday - 05/09:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+    
+  ##### Wednesday - 05/10:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+  
+  ##### Thursday - 05/11:
+  * Repos:
+    * []()
+  * Videos:
+    * []()  
+  ##### Friday - 05/12:
+  * Repos:
+    * [SQL Diagram](https://excalidraw.com/#json=IWlMWnasofLYaZpcnPXkw,RkX4HKlc9tVmKVOC80VqtQ)
+  * Videos:
+    * [Hosting on Heroku and bit.io](https://vimeo.com/826335300)
+</details>
+
+<details>
+  <summary>Week 13: Scope & Auth Week</summary>
+
+  ##### Monday - 05/15:
+  * Repos:
+    * [MVC Diagram](https://excalidraw.com/#json=Zzvn9186TwS1HjltEol9d,mfGk0KZ6DjJr2Jbb1aoXLg)
+  * Videos:
+    * []()
+  
+  ##### Tuesday - 05/16:
+  * Repos:
+    * [TODO List ERD](https://erd.dbdesigner.net/designer/schema/1684266522-todoapp)
+    * [Auth Diagram](https://excalidraw.com/#json=D-nRuJx4bRJ7IoudIXAJv,z0qNfOB8KuhVeDOYmdwplg)
+    * ERD Notes, see post from Matt in `#citrine` at Tuesdday 5/16, 3:08pm Central
+  * Videos:
+    * []()
+    
+  ##### Wednesday - 05/17:
+  * Repos:
+    * [Passport Notes](https://github.com/PrimeAcademy/aquamarine-syllabus/blob/main/lecture-notes/week-13-auth-scoping/13-03a_passport-code.md)
+    * [Solo Project Structure With Auth Notes](https://github.com/PrimeAcademy/aquamarine-syllabus/blob/main/lecture-notes/week-13-auth-scoping/13-03c_front-end-auth.md)
+  * Videos:
+    * []()
+  
+  ##### Thursday - 05/18:
+  * Repos:
+    * []()
+  * Videos:
+    * []()  
+  ##### Friday - 05/19:
+  * Repos:
+    * []()
+  * Videos:
+    * []()
+</details>
+
