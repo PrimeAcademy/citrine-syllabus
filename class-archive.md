@@ -242,18 +242,18 @@ Class recordings and their associated repositories, organized by week:
     
   ##### Wednesday - 05/03:
   * Repos:
-    * []()
+    * [Full Stack Redux](https://github.com/PrimeAcademy/citrine-full-stack-redux)
   * Videos:
     * []()
   
   ##### Thursday - 05/04:
   * Repos:
-    * []()
+    * None
   * Videos:
     * []()  
   ##### Friday - 05/05:
   * Repos:
-    * []()
+    * [React Router Diagram](https://primeacademycampus.slack.com/archives/C04Q6M8M8V8/p1683577464230959)
   * Videos:
     * []()
 </details>
@@ -263,25 +263,27 @@ Class recordings and their associated repositories, organized by week:
 
   ##### Monday - 05/08:
   * Repos:
-    * []()
+    * [SQL Joins, Group By, and diagram](https://primeacademycampus.slack.com/archives/C04Q6M8M8V8/p1683577464230959)
   * Videos:
     * []()
   
   ##### Tuesday - 05/09:
   * Repos:
-    * []()
+    * [APIs with Key on Server Example](https://github.com/PrimeAcademy/citrine-server-axios-env)
+    * [List of Some Public APIs](https://github.com/toddmotto/public-apis)
+    * [Parts of a URL](https://www.mattcutts.com/blog/seo-glossary-url-definitions/)
   * Videos:
     * []()
     
   ##### Wednesday - 05/10:
   * Repos:
-    * []()
+    * None
   * Videos:
     * []()
   
   ##### Thursday - 05/11:
   * Repos:
-    * []()
+    * [Link to react complexity diagram](https://excalidraw.com/#json=xT8Pv6aN6O57Vudx7eC3T,iSwazu9DhTtp_fK7kx_NJA)
   * Videos:
     * []()  
   ##### Friday - 05/12:
