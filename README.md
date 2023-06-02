@@ -11,6 +11,7 @@
 - Guides for Deploying Your Apps:
   - [Heroku](./resources/heroku.md)
   - [bit.io](./resources/bit-io.md)
+- [Group Project Kickoff](https://github.com/PrimeAcademy/group-project-kickoff)
 
 ## Instruction Staff
 
