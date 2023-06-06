@@ -11,6 +11,7 @@
 - Guides for Deploying Your Apps:
   - [Heroku](./resources/heroku.md)
   - [bit.io](./resources/bit-io.md)
+  - [render.com](./resources/render-db.md)
 - [Solo Project Presentation Guide](./resources/solo-project-prezzies.md)
 - [Group Project Kickoff](https://github.com/PrimeAcademy/group-project-kickoff)
 
