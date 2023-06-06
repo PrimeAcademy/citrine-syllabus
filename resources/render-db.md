@@ -29,7 +29,7 @@ Pricing details are at:
 In general, you will want to create a new database for every application you deploy.
 
 - From the [dashboard](https://dashboard.render.com/) click the _New +_ button to create a new database. 
-    - ![](../images/render-00.png)
+    - ![](../lecture-notes/images/render-00.png)
 	- From the dropdown, select _**PostgreSQL**_
 - 📝 Use the web-form to configure your database:
 	- **Name**: The name of your PostgreSQL instance (use the name of your app.)
@@ -47,9 +47,9 @@ You can use Postico to access your database, and run SQL queries against it.
 
 - Go to your [dashboard](https://dashboard.render.com/)
 - Select your Postgres Instance
-![](../images/render-01.png)
+![](../lecture-notes/images/render-01.png)
 - From the info tab, scrill down to the section titled **Connections**
-![](../images/render-02.png)
+![](../lecture-notes/images/render-02.png)
 
 This section gives you all the information you need to connect to your database from Postico:
 
@@ -57,7 +57,7 @@ This section gives you all the information you need to connect to your database 
 - If you're already connected to a database, close your Postico window to disconnect
 - Click _New Favorite_, to setup the new connection to _Render_
 - Copy all the values from the **render.com** _Connections_ section into the connection form in _Postico_:
-    - ![](../images/render-03.png)
+    - ![](../lecture-notes/images/render-03.png)
         - 💥 Hostname Details:
             - In Postico, the Hostname field differs from what you'll see on the Render.com website. Postico is expecting a url,
                 - Format: `<HOST_NAME>.<REGION>.<DOMAIN>`
@@ -97,9 +97,9 @@ To get the value for the `DATABASE_URL`
 - Go to your [render.com dashboard](https://dashboard.render.com/)
 - Select your PostgreSQL instance
     - Select your PostgresInstance
-    - ![](../images/render-01.png)
+    - ![](../lecture-notes/images/render-01.png)
 - Go to the _Connections_ section and copy the _External Database URL_ value
-    - ![](../images/render-04.png)
+    - ![](../lecture-notes/images/render-04.png)
     - This should look something like: `postgres://key:3rwA9UviR7tyxw7VoGMUqO8aGe8duzlw@dpg-chrmple7avj9vuf6698g-a.oregon-postgres.render.com/some_database_name`
 
 In a terminal, `cd` into your project folder. Then run:
