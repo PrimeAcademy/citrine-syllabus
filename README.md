@@ -14,6 +14,7 @@
   - [render.com](./resources/render-db.md)
 - [Solo Project Presentation Guide](./resources/solo-project-prezzies.md)
 - [Group Project Kickoff](https://github.com/PrimeAcademy/group-project-kickoff)
+- [Technical Interviewing](./resources/technical-interviewing.md)
 
 ## Instruction Staff
 
