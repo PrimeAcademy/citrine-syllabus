@@ -15,6 +15,7 @@
 - [Solo Project Presentation Guide](./resources/solo-project-prezzies.md)
 - [Group Project Kickoff](https://github.com/PrimeAcademy/group-project-kickoff)
 - [Technical Interviewing](./resources/technical-interviewing.md)
+- [Technical Interviewing Vocab](./resources/vocab.md)
 - [Group Project Presentation Outline](./group-project-presentation-outline.md)
 
 ## Instruction Staff
